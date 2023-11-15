@@ -109,4 +109,8 @@ Tras las pruebas realizadas, se concluyó que la red de Hopfield es efectiva par
 - **Rodriguez Alex**
   - Correo: alekeyn1999@gmail.com
   - Github: [AlexRodriguezZA](https://github.com/AlexRodriguezZA)
-  - linkedin: [alex-rodriguez-zamora](https://www.linkedin.com/in/alex-rodriguez-zamora/)
+  - Linkedin: [alex-rodriguez-zamora](https://www.linkedin.com/in/alex-rodriguez-zamora/)
+
+- **Daniela Lopez De Luise**
+  - Correo: lopezdeluise.daniela@uader.edu.ar
+  - Linkedin: [Daniela LopezDeLuise](https://www.linkedin.com/in/daniela-lopezdeluise-a973047/)
