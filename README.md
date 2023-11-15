@@ -98,7 +98,10 @@ Tras las pruebas realizadas, se concluyó que la red de Hopfield es efectiva par
 - **Profesor/a:** Dra. Daniela López De Luise
 
 ## Repositorio
-[Red-de-hopfield-git](https://github.com/Gonzze-dev/-hopfield-neural-network)
+-link: [Red-de-hopfield-git](https://github.com/Gonzze-dev/-hopfield-neural-network)
+
+## Presentacion
+-link: [Canvas-hopfield](https://www.canva.com/design/DAFzz4-q22s/uIvaKSJxko0gciSokzr1mg/edit)
 
 ## Contacto
 
