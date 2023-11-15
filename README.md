@@ -21,6 +21,11 @@ Para utilizar el código completo, se requiere la instalación de las siguientes
 
 No es necesario realizar una instalación especial, solo asegúrate de tener Python instalado junto con las dependencias mencionadas (Numpy y Scikit-image).
 
+```
+pip install numpy==1.26.2
+pip install scikit-image==0.18.1
+```
+
 ## Uso
 
 El programa no cuenta con una interfaz gráfica y debe ser ejecutado desde una terminal.
@@ -30,10 +35,6 @@ Para utilizar la clase `hopfield`, se necesita únicamente la librería Numpy y 
 Para usar la clase `NnHopfield`, se requiere la clase `hopfield` y los módulos `verifyElementsOfPattern`, `addZerosToPattern` y `convertToVectorBipolar`. Todos estos módulos se pueden encontrar en la carpeta 'Utilities'.
 Puedes instalar estas dependencias usando pip:
 
-```
-pip install numpy==1.26.2
-pip install scikit-image==0.18.1
-```
 ## Ejecución del `main.py`
 
 1. Prepara los directorios que contienen archivos CSV o imágenes para entrenar la red y para los datos que deseas reconstruir.
