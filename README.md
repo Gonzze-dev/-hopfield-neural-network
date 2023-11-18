@@ -23,7 +23,7 @@ No es necesario realizar una instalación especial, solo asegúrate de tener Pyt
 
 ```
 pip install numpy==1.26.2
-pip install scikit-image==0.18.1
+pip install scikit-image==0.22.0
 ```
 
 ## Uso
